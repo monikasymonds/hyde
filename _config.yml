@@ -15,7 +15,7 @@ baseurl:          ''
 
 author:
   name:           'Monika Symonds'
-  url:            https://www.instagram.com/branchingcrafts/?hl=en
+  url:            'https://www.instagram.com/branchingcrafts/?hl=en'
 
 paginate:         5
 
